@@ -1,0 +1,11 @@
+Day,City,Temperature,Wind,Event
+01-01-2017,New york,30,6,rain
+02-01-2017,New york,32,7,sunny
+03-01-2017,New york,,,cold
+04-01-2017,Cali,34,6,rain
+05-01-2017,Cali,,8,sunny
+06-01-2017,Cali,31,4,thunder
+07-01-2017,Cali,29,,dark
+08-01-2017,Texas ,,2,rain
+09-01-2017,Texas ,36,6,thunder
+10-01-2017,Texas , ,,sunny
